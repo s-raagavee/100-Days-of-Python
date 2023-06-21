@@ -1,5 +1,6 @@
 #AUTHOR: Raagavee Selvamohan
-#Day 1 Create a Band name using the users city name and pet name and combining them to make teh band name.
+#Day 1 Create a Band name using the users city name and pet name
+# and combining them to make the band name.
 
 #Create a greeting for your program.
 print("Welcome to the Band Name Generator.")
