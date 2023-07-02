@@ -48,6 +48,7 @@ if (user >=0 and user <=2):
   #get computer input and print that image
   print("Computer chose:")
   comp = random.randint(0,2)
+  print(comp)
   print(image[comp])
 
   #User Win Scenarios
